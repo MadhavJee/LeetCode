@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MadhavJee/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/MadhavJee/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/MadhavJee/LeetCode/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/MadhavJee/LeetCode/tree/master/0319-bulb-switcher) |
 | [2396-strictly-palindromic-number](https://github.com/MadhavJee/LeetCode/tree/master/2396-strictly-palindromic-number) |
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MadhavJee/LeetCode/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MadhavJee/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MadhavJee/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
