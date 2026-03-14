@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MadhavJee/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/MadhavJee/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/MadhavJee/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/MadhavJee/LeetCode/tree/master/0067-add-binary) |
@@ -162,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MadhavJee/LeetCode/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MadhavJee/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MadhavJee/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
