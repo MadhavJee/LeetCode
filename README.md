@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/MadhavJee/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/MadhavJee/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/MadhavJee/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/MadhavJee/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/MadhavJee/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/MadhavJee/LeetCode/tree/master/0070-climbing-stairs) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MadhavJee/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/MadhavJee/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/MadhavJee/LeetCode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/MadhavJee/LeetCode/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/MadhavJee/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MadhavJee/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/MadhavJee/LeetCode/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/MadhavJee/LeetCode/tree/master/0179-largest-number) |
