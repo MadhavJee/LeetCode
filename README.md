@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MadhavJee/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MadhavJee/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MadhavJee/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/MadhavJee/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/MadhavJee/LeetCode/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/MadhavJee/LeetCode/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/MadhavJee/LeetCode/tree/master/0389-find-the-difference) |
