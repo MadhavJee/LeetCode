@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MadhavJee/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/MadhavJee/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/MadhavJee/LeetCode/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/MadhavJee/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/MadhavJee/LeetCode/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/MadhavJee/LeetCode/tree/master/0319-bulb-switcher) |
 | [0866-prime-palindrome](https://github.com/MadhavJee/LeetCode/tree/master/0866-prime-palindrome) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MadhavJee/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/MadhavJee/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/MadhavJee/LeetCode/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/MadhavJee/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/MadhavJee/LeetCode/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/MadhavJee/LeetCode/tree/master/0389-find-the-difference) |
 ## Simulation
