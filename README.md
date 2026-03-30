@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/MadhavJee/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/MadhavJee/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/MadhavJee/LeetCode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/MadhavJee/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MadhavJee/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/MadhavJee/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/MadhavJee/LeetCode/tree/master/0078-subsets) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MadhavJee/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/MadhavJee/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MadhavJee/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/MadhavJee/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/MadhavJee/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/MadhavJee/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/MadhavJee/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/MadhavJee/LeetCode/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/MadhavJee/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/MadhavJee/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/MadhavJee/LeetCode/tree/master/0179-largest-number) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MadhavJee/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MadhavJee/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MadhavJee/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/MadhavJee/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MadhavJee/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/MadhavJee/LeetCode/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/MadhavJee/LeetCode/tree/master/0171-excel-sheet-column-number) |
