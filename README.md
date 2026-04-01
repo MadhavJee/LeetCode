@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/MadhavJee/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/MadhavJee/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MadhavJee/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/MadhavJee/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/MadhavJee/LeetCode/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/MadhavJee/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MadhavJee/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/MadhavJee/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/MadhavJee/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/MadhavJee/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/MadhavJee/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MadhavJee/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/MadhavJee/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2485-find-the-pivot-integer](https://github.com/MadhavJee/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Greedy
 |  |
