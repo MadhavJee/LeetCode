@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/MadhavJee/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/MadhavJee/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/MadhavJee/LeetCode/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/MadhavJee/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/MadhavJee/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MadhavJee/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MadhavJee/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MadhavJee/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MadhavJee/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/MadhavJee/LeetCode/tree/master/0067-add-binary) |
+| [0151-reverse-words-in-a-string](https://github.com/MadhavJee/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/MadhavJee/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/MadhavJee/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/MadhavJee/LeetCode/tree/master/0205-isomorphic-strings) |
