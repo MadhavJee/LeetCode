@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/MadhavJee/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/MadhavJee/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/MadhavJee/LeetCode/tree/master/0389-find-the-difference) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/MadhavJee/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Hash Table
 |  |
 | ------- |
