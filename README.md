@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/MadhavJee/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MadhavJee/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/MadhavJee/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/MadhavJee/LeetCode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/MadhavJee/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MadhavJee/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/MadhavJee/LeetCode/tree/master/0136-single-number) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MadhavJee/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MadhavJee/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/MadhavJee/LeetCode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/MadhavJee/LeetCode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/MadhavJee/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/MadhavJee/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/MadhavJee/LeetCode/tree/master/0179-largest-number) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/MadhavJee/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/MadhavJee/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/MadhavJee/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/MadhavJee/LeetCode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/MadhavJee/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Merge Sort
 |  |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/MadhavJee/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/MadhavJee/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/MadhavJee/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/MadhavJee/LeetCode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MadhavJee/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/MadhavJee/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Design
@@ -399,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/MadhavJee/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/MadhavJee/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
