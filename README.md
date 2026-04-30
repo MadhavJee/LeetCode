@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/MadhavJee/LeetCode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/MadhavJee/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/MadhavJee/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/MadhavJee/LeetCode/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/MadhavJee/LeetCode/tree/master/0319-bulb-switcher) |
 | [0866-prime-palindrome](https://github.com/MadhavJee/LeetCode/tree/master/0866-prime-palindrome) |
 | [1903-largest-odd-number-in-string](https://github.com/MadhavJee/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MadhavJee/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/MadhavJee/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/MadhavJee/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/MadhavJee/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhavJee/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/MadhavJee/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/MadhavJee/LeetCode/tree/master/0229-majority-element-ii) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/MadhavJee/LeetCode/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/MadhavJee/LeetCode/tree/master/0866-prime-palindrome) |
 ## Binary Search
 |  |
@@ -407,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/MadhavJee/LeetCode/tree/master/0079-word-search) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MadhavJee/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
