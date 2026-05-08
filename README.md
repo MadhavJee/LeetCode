@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/MadhavJee/LeetCode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/MadhavJee/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MadhavJee/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/MadhavJee/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/MadhavJee/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/MadhavJee/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/MadhavJee/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MadhavJee/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/MadhavJee/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/MadhavJee/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/MadhavJee/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MadhavJee/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MadhavJee/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MadhavJee/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/MadhavJee/LeetCode/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
