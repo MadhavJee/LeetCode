@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/MadhavJee/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/MadhavJee/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/MadhavJee/LeetCode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/MadhavJee/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/MadhavJee/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/MadhavJee/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/MadhavJee/LeetCode/tree/master/0179-largest-number) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/MadhavJee/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/MadhavJee/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MadhavJee/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/MadhavJee/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/MadhavJee/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/MadhavJee/LeetCode/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/MadhavJee/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/MadhavJee/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/MadhavJee/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/MadhavJee/LeetCode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/MadhavJee/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/MadhavJee/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Merge Sort
 |  |
