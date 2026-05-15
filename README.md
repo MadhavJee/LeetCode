@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MadhavJee/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/MadhavJee/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/MadhavJee/LeetCode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/MadhavJee/LeetCode/tree/master/0089-gray-code) |
 | [0171-excel-sheet-column-number](https://github.com/MadhavJee/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/MadhavJee/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MadhavJee/LeetCode/tree/master/0204-count-primes) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/MadhavJee/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/MadhavJee/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/MadhavJee/LeetCode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/MadhavJee/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/MadhavJee/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/MadhavJee/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/MadhavJee/LeetCode/tree/master/0260-single-number-iii) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/MadhavJee/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/MadhavJee/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/MadhavJee/LeetCode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/MadhavJee/LeetCode/tree/master/0089-gray-code) |
 | [0131-palindrome-partitioning](https://github.com/MadhavJee/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/MadhavJee/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Merge Sort
