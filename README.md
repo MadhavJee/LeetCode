@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/MadhavJee/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/MadhavJee/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/MadhavJee/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/MadhavJee/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/MadhavJee/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/MadhavJee/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/MadhavJee/LeetCode/tree/master/0070-climbing-stairs) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/MadhavJee/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MadhavJee/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MadhavJee/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/MadhavJee/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/MadhavJee/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/MadhavJee/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/MadhavJee/LeetCode/tree/master/0096-unique-binary-search-trees) |
@@ -497,4 +499,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/MadhavJee/LeetCode/tree/master/0292-nim-game) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/MadhavJee/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
