@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/MadhavJee/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/MadhavJee/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/MadhavJee/LeetCode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/MadhavJee/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/MadhavJee/LeetCode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/MadhavJee/LeetCode/tree/master/0319-bulb-switcher) |
 | [0866-prime-palindrome](https://github.com/MadhavJee/LeetCode/tree/master/0866-prime-palindrome) |
