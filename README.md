@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MadhavJee/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MadhavJee/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/MadhavJee/LeetCode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/MadhavJee/LeetCode/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/MadhavJee/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/MadhavJee/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/MadhavJee/LeetCode/tree/master/0292-nim-game) |
@@ -511,4 +512,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/MadhavJee/LeetCode/tree/master/0062-unique-paths) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/MadhavJee/LeetCode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
