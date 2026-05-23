@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/MadhavJee/LeetCode/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/MadhavJee/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/MadhavJee/LeetCode/tree/master/0263-ugly-number) |
+| [0279-perfect-squares](https://github.com/MadhavJee/LeetCode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/MadhavJee/LeetCode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/MadhavJee/LeetCode/tree/master/0319-bulb-switcher) |
 | [0866-prime-palindrome](https://github.com/MadhavJee/LeetCode/tree/master/0866-prime-palindrome) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/MadhavJee/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/MadhavJee/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/MadhavJee/LeetCode/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/MadhavJee/LeetCode/tree/master/0279-perfect-squares) |
 | [0410-split-array-largest-sum](https://github.com/MadhavJee/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/MadhavJee/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 ## Memoization
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MadhavJee/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0279-perfect-squares](https://github.com/MadhavJee/LeetCode/tree/master/0279-perfect-squares) |
 ## Binary Tree
 |  |
 | ------- |
