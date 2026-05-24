@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/MadhavJee/LeetCode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/MadhavJee/LeetCode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/MadhavJee/LeetCode/tree/master/0319-bulb-switcher) |
+| [0342-power-of-four](https://github.com/MadhavJee/LeetCode/tree/master/0342-power-of-four) |
 | [0866-prime-palindrome](https://github.com/MadhavJee/LeetCode/tree/master/0866-prime-palindrome) |
 | [1903-largest-odd-number-in-string](https://github.com/MadhavJee/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/MadhavJee/LeetCode/tree/master/1922-count-good-numbers) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/MadhavJee/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/MadhavJee/LeetCode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/MadhavJee/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/MadhavJee/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/MadhavJee/LeetCode/tree/master/0389-find-the-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/MadhavJee/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Hash Table
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/MadhavJee/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/MadhavJee/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/MadhavJee/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/MadhavJee/LeetCode/tree/master/0342-power-of-four) |
 | [1922-count-good-numbers](https://github.com/MadhavJee/LeetCode/tree/master/1922-count-good-numbers) |
 ## String Matching
 |  |
