@@ -533,4 +533,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/MadhavJee/LeetCode/tree/master/0223-rectangle-area) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/MadhavJee/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
