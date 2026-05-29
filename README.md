@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/MadhavJee/LeetCode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/MadhavJee/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/MadhavJee/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/MadhavJee/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0507-perfect-number](https://github.com/MadhavJee/LeetCode/tree/master/0507-perfect-number) |
 | [0866-prime-palindrome](https://github.com/MadhavJee/LeetCode/tree/master/0866-prime-palindrome) |
 | [1903-largest-odd-number-in-string](https://github.com/MadhavJee/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/MadhavJee/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/MadhavJee/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/MadhavJee/LeetCode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/MadhavJee/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/MadhavJee/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Hash Table
 |  |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MadhavJee/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/MadhavJee/LeetCode/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/MadhavJee/LeetCode/tree/master/0402-remove-k-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/MadhavJee/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0451-sort-characters-by-frequency](https://github.com/MadhavJee/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/MadhavJee/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/MadhavJee/LeetCode/tree/master/1021-remove-outermost-parentheses) |
