@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/MadhavJee/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/MadhavJee/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MadhavJee/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0492-construct-the-rectangle](https://github.com/MadhavJee/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/MadhavJee/LeetCode/tree/master/0507-perfect-number) |
 | [0866-prime-palindrome](https://github.com/MadhavJee/LeetCode/tree/master/0866-prime-palindrome) |
 | [1903-largest-odd-number-in-string](https://github.com/MadhavJee/LeetCode/tree/master/1903-largest-odd-number-in-string) |
