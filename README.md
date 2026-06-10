@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/MadhavJee/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MadhavJee/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/MadhavJee/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0384-shuffle-an-array](https://github.com/MadhavJee/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/MadhavJee/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MadhavJee/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/MadhavJee/LeetCode/tree/master/0492-construct-the-rectangle) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/MadhavJee/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/MadhavJee/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MadhavJee/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0384-shuffle-an-array](https://github.com/MadhavJee/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0410-split-array-largest-sum](https://github.com/MadhavJee/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MadhavJee/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/MadhavJee/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/MadhavJee/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/MadhavJee/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MadhavJee/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0384-shuffle-an-array](https://github.com/MadhavJee/LeetCode/tree/master/0384-shuffle-an-array) |
 ## Queue
 |  |
 | ------- |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/MadhavJee/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/MadhavJee/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0384-shuffle-an-array](https://github.com/MadhavJee/LeetCode/tree/master/0384-shuffle-an-array) |
 ## Reservoir Sampling
 |  |
 | ------- |
