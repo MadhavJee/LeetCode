@@ -581,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/MadhavJee/LeetCode/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/MadhavJee/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/MadhavJee/LeetCode/tree/master/1075-project-employees-i) |
+| [1084-sales-analysis-iii](https://github.com/MadhavJee/LeetCode/tree/master/1084-sales-analysis-iii) |
 ## Randomized
 |  |
 | ------- |
