@@ -8,7 +8,7 @@ public:
             mp[key].push_back(str);
         }
         vector<vector<string>> ans;
-        for(auto str:mp){
+        for(auto &str:mp){
             ans.push_back(str.second);
         }
         return ans;
