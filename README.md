@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/MadhavJee/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/MadhavJee/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MadhavJee/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/MadhavJee/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/MadhavJee/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MadhavJee/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MadhavJee/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/MadhavJee/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/MadhavJee/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/MadhavJee/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Simulation
 |  |
 | ------- |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MadhavJee/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/MadhavJee/LeetCode/tree/master/0796-rotate-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/MadhavJee/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Backtracking
 |  |
 | ------- |
