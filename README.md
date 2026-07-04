@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/MadhavJee/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MadhavJee/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/MadhavJee/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/MadhavJee/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/MadhavJee/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MadhavJee/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/MadhavJee/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/MadhavJee/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/MadhavJee/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/MadhavJee/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 ## Simulation
 |  |
 | ------- |
