@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/MadhavJee/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0875-koko-eating-bananas](https://github.com/MadhavJee/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/MadhavJee/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [0912-sort-an-array](https://github.com/MadhavJee/LeetCode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MadhavJee/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/MadhavJee/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/MadhavJee/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhavJee/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MadhavJee/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MadhavJee/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/MadhavJee/LeetCode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MadhavJee/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/MadhavJee/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/MadhavJee/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/MadhavJee/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0767-reorganize-string](https://github.com/MadhavJee/LeetCode/tree/master/0767-reorganize-string) |
+| [0912-sort-an-array](https://github.com/MadhavJee/LeetCode/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/MadhavJee/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/MadhavJee/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/MadhavJee/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/MadhavJee/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MadhavJee/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/MadhavJee/LeetCode/tree/master/0767-reorganize-string) |
+| [0912-sort-an-array](https://github.com/MadhavJee/LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/MadhavJee/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/MadhavJee/LeetCode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/MadhavJee/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -572,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/MadhavJee/LeetCode/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/MadhavJee/LeetCode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -579,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/MadhavJee/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/MadhavJee/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/MadhavJee/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/MadhavJee/LeetCode/tree/master/0912-sort-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -664,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/MadhavJee/LeetCode/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/MadhavJee/LeetCode/tree/master/0912-sort-an-array) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -751,4 +758,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/MadhavJee/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/MadhavJee/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
