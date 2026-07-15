@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/MadhavJee/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/MadhavJee/LeetCode/tree/master/0507-perfect-number) |
 | [0866-prime-palindrome](https://github.com/MadhavJee/LeetCode/tree/master/0866-prime-palindrome) |
+| [0973-k-closest-points-to-origin](https://github.com/MadhavJee/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MadhavJee/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/MadhavJee/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/MadhavJee/LeetCode/tree/master/1922-count-good-numbers) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/MadhavJee/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MadhavJee/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/MadhavJee/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0973-k-closest-points-to-origin](https://github.com/MadhavJee/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MadhavJee/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/MadhavJee/LeetCode/tree/master/1046-last-stone-weight) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MadhavJee/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/MadhavJee/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MadhavJee/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MadhavJee/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/MadhavJee/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/MadhavJee/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0767-reorganize-string](https://github.com/MadhavJee/LeetCode/tree/master/0767-reorganize-string) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/MadhavJee/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0973-k-closest-points-to-origin](https://github.com/MadhavJee/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/MadhavJee/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/MadhavJee/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/MadhavJee/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -490,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/MadhavJee/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MadhavJee/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/MadhavJee/LeetCode/tree/master/0767-reorganize-string) |
+| [0973-k-closest-points-to-origin](https://github.com/MadhavJee/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/MadhavJee/LeetCode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/MadhavJee/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Quickselect
@@ -497,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhavJee/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/MadhavJee/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/MadhavJee/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Trie
 |  |
 | ------- |
@@ -675,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/MadhavJee/LeetCode/tree/master/0223-rectangle-area) |
+| [0973-k-closest-points-to-origin](https://github.com/MadhavJee/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Database
 |  |
 | ------- |
