@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-number-of-zero-filled-subarrays](https://github.com/MadhavJee/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2396-strictly-palindromic-number](https://github.com/MadhavJee/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/MadhavJee/LeetCode/tree/master/2485-find-the-pivot-integer) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/MadhavJee/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/MadhavJee/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/MadhavJee/LeetCode/tree/master/0258-add-digits) |
 | [0866-prime-palindrome](https://github.com/MadhavJee/LeetCode/tree/master/0866-prime-palindrome) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/MadhavJee/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
 | ------- |
