@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/MadhavJee/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/MadhavJee/LeetCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/MadhavJee/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/MadhavJee/LeetCode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/MadhavJee/LeetCode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/MadhavJee/LeetCode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/MadhavJee/LeetCode/tree/master/0319-bulb-switcher) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/MadhavJee/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MadhavJee/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/MadhavJee/LeetCode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/MadhavJee/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MadhavJee/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MadhavJee/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/MadhavJee/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/MadhavJee/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/MadhavJee/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/MadhavJee/LeetCode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/MadhavJee/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MadhavJee/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/MadhavJee/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/MadhavJee/LeetCode/tree/master/0342-power-of-four) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/MadhavJee/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MadhavJee/LeetCode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/MadhavJee/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/MadhavJee/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/MadhavJee/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MadhavJee/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MadhavJee/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/MadhavJee/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/MadhavJee/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MadhavJee/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/MadhavJee/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/MadhavJee/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MadhavJee/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/MadhavJee/LeetCode/tree/master/0389-find-the-difference) |
@@ -448,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MadhavJee/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MadhavJee/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MadhavJee/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/MadhavJee/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MadhavJee/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MadhavJee/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/MadhavJee/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
