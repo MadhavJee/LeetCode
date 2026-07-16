@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/MadhavJee/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/MadhavJee/LeetCode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/MadhavJee/LeetCode/tree/master/0223-rectangle-area) |
+| [0231-power-of-two](https://github.com/MadhavJee/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/MadhavJee/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/MadhavJee/LeetCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/MadhavJee/LeetCode/tree/master/0264-ugly-number-ii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/MadhavJee/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/MadhavJee/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/MadhavJee/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/MadhavJee/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/MadhavJee/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/MadhavJee/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MadhavJee/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/MadhavJee/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/MadhavJee/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/MadhavJee/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/MadhavJee/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/MadhavJee/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/MadhavJee/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MadhavJee/LeetCode/tree/master/0342-power-of-four) |
