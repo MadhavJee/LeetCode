@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/MadhavJee/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/MadhavJee/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/MadhavJee/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2390-removing-stars-from-a-string](https://github.com/MadhavJee/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MadhavJee/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/MadhavJee/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MadhavJee/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/MadhavJee/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MadhavJee/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/MadhavJee/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2104-sum-of-subarray-ranges](https://github.com/MadhavJee/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
+| [2390-removing-stars-from-a-string](https://github.com/MadhavJee/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
