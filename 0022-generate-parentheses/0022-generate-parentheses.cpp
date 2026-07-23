@@ -5,11 +5,8 @@ public:
             ans.push_back(s);
             return;
         }
-        if(open > 0)
-            solve(open - 1, close, s + '(', ans);
-
-        if(close > open)
-            solve(open, close - 1, s + ')', ans);
+        if(open > 0)solve(open - 1, close, s + '(', ans);
+        if(close > open)solve(open, close - 1, s + ')', ans);
     }
     vector<string> generateParenthesis(int n) {
         vector<string> ans;
