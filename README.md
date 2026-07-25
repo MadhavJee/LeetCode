@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-number-of-zero-filled-subarrays](https://github.com/MadhavJee/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2396-strictly-palindromic-number](https://github.com/MadhavJee/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/MadhavJee/LeetCode/tree/master/2485-find-the-pivot-integer) |
+| [3536-maximum-product-of-two-digits](https://github.com/MadhavJee/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MadhavJee/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/MadhavJee/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/MadhavJee/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MadhavJee/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/MadhavJee/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
