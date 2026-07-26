@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/MadhavJee/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/MadhavJee/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/MadhavJee/LeetCode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MadhavJee/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0866-prime-palindrome](https://github.com/MadhavJee/LeetCode/tree/master/0866-prime-palindrome) |
 | [0973-k-closest-points-to-origin](https://github.com/MadhavJee/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MadhavJee/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/MadhavJee/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MadhavJee/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/MadhavJee/LeetCode/tree/master/0622-design-circular-queue) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MadhavJee/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/MadhavJee/LeetCode/tree/master/0641-design-circular-deque) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/MadhavJee/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/MadhavJee/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/MadhavJee/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MadhavJee/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/MadhavJee/LeetCode/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MadhavJee/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/MadhavJee/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/MadhavJee/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0767-reorganize-string](https://github.com/MadhavJee/LeetCode/tree/master/0767-reorganize-string) |
