@@ -2,23 +2,26 @@ class Solution {
 public:
     int minCostConnectPoints(vector<vector<int>>& points) {
         int n = points.size();
-        vector<int> minDist(n, INT_MAX);
+        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> pq;
         vector<bool> vis(n, false);
-        minDist[0] = 0;
+        pq.push({0, 0});
         int ans = 0;
-        for (int i = 0; i < n; i++) {
-            int u = -1;
-            for (int j = 0; j < n; j++) {
-                if (!vis[j] && (u == -1 || minDist[j] < minDist[u]))u = j;
-            }
+        int count = 0;
+        while (!pq.empty() && count < n) {
+            auto curr = pq.top();
+            pq.pop();
+            int cost = curr.first;
+            int u = curr.second;
+            if (vis[u])continue;
             vis[u] = true;
-            ans += minDist[u];
+            ans += cost;
+            count++;
             for (int v = 0; v < n; v++) {
                 if (!vis[v]) {
-                    int dist = abs(points[u][0] - points[v][0]) +
-                               abs(points[u][1] - points[v][1]);
+                    int d = abs(points[u][0] - points[v][0]) +
+                            abs(points[u][1] - points[v][1]);
 
-                    minDist[v] = min(minDist[v], dist);
+                    pq.push({d, v});
                 }
             }
         }
