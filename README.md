@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/MadhavJee/LeetCode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MadhavJee/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MadhavJee/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/MadhavJee/LeetCode/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/MadhavJee/LeetCode/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MadhavJee/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/MadhavJee/LeetCode/tree/master/0641-design-circular-deque) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/MadhavJee/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/MadhavJee/LeetCode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/MadhavJee/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0605-can-place-flowers](https://github.com/MadhavJee/LeetCode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/MadhavJee/LeetCode/tree/master/0649-dota2-senate) |
 | [0767-reorganize-string](https://github.com/MadhavJee/LeetCode/tree/master/0767-reorganize-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/MadhavJee/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
