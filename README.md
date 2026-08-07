@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/MadhavJee/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/MadhavJee/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/MadhavJee/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/MadhavJee/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MadhavJee/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MadhavJee/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Bit Manipulation
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/MadhavJee/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/MadhavJee/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2351-first-letter-to-appear-twice](https://github.com/MadhavJee/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2352-equal-row-and-column-pairs](https://github.com/MadhavJee/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MadhavJee/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/MadhavJee/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MadhavJee/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2352-equal-row-and-column-pairs](https://github.com/MadhavJee/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/MadhavJee/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
@@ -729,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/MadhavJee/LeetCode/tree/master/0733-flood-fill) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/MadhavJee/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/MadhavJee/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [2352-equal-row-and-column-pairs](https://github.com/MadhavJee/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 ## Design
 |  |
 | ------- |
