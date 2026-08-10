@@ -2,8 +2,9 @@ class Solution {
 public:
     int minEatingSpeed(vector<int>& piles, int h) {
         int low = 1, high = 0;
-        for(int p : piles)
+        for(int p : piles){
             high = max(high, p);
+        }
         while(low <= high){
             int mid = low + (high - low) / 2;
             long long hours = 0;
