@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/MadhavJee/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0410-split-array-largest-sum](https://github.com/MadhavJee/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MadhavJee/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MadhavJee/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MadhavJee/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/MadhavJee/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MadhavJee/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/MadhavJee/LeetCode/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/MadhavJee/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/MadhavJee/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MadhavJee/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MadhavJee/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/MadhavJee/LeetCode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MadhavJee/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/MadhavJee/LeetCode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/MadhavJee/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MadhavJee/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MadhavJee/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/MadhavJee/LeetCode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/MadhavJee/LeetCode/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MadhavJee/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
