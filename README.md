@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/MadhavJee/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MadhavJee/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/MadhavJee/LeetCode/tree/master/0384-shuffle-an-array) |
+| [0399-evaluate-division](https://github.com/MadhavJee/LeetCode/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/MadhavJee/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MadhavJee/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MadhavJee/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/MadhavJee/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/MadhavJee/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/MadhavJee/LeetCode/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/MadhavJee/LeetCode/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/MadhavJee/LeetCode/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/MadhavJee/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/MadhavJee/LeetCode/tree/master/0409-longest-palindrome) |
@@ -855,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MadhavJee/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MadhavJee/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MadhavJee/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0399-evaluate-division](https://github.com/MadhavJee/LeetCode/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/MadhavJee/LeetCode/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/MadhavJee/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/MadhavJee/LeetCode/tree/master/0684-redundant-connection) |
@@ -913,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/MadhavJee/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/MadhavJee/LeetCode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MadhavJee/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0399-evaluate-division](https://github.com/MadhavJee/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/MadhavJee/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/MadhavJee/LeetCode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/MadhavJee/LeetCode/tree/master/0733-flood-fill) |
@@ -1084,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MadhavJee/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/MadhavJee/LeetCode/tree/master/0130-surrounded-regions) |
+| [0399-evaluate-division](https://github.com/MadhavJee/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/MadhavJee/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/MadhavJee/LeetCode/tree/master/0684-redundant-connection) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/MadhavJee/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -1091,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/MadhavJee/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/MadhavJee/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/MadhavJee/LeetCode/tree/master/0684-redundant-connection) |
 | [0841-keys-and-rooms](https://github.com/MadhavJee/LeetCode/tree/master/0841-keys-and-rooms) |
@@ -1137,4 +1143,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/MadhavJee/LeetCode/tree/master/1051-height-checker) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/MadhavJee/LeetCode/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/MadhavJee/LeetCode/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/MadhavJee/LeetCode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
