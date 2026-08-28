@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MadhavJee/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/MadhavJee/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/MadhavJee/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/MadhavJee/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2029-stone-game-ix](https://github.com/MadhavJee/LeetCode/tree/master/2029-stone-game-ix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/MadhavJee/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MadhavJee/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -792,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/MadhavJee/LeetCode/tree/master/0733-flood-fill) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/MadhavJee/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/MadhavJee/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/MadhavJee/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/MadhavJee/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 ## Design
 |  |
@@ -924,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MadhavJee/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/MadhavJee/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/MadhavJee/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/MadhavJee/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
 |  |
 | ------- |
