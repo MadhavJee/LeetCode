@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/MadhavJee/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/MadhavJee/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/MadhavJee/LeetCode/tree/master/0994-rotting-oranges) |
+| [1002-find-common-characters](https://github.com/MadhavJee/LeetCode/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/MadhavJee/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MadhavJee/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/MadhavJee/LeetCode/tree/master/1046-last-stone-weight) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/MadhavJee/LeetCode/tree/master/0767-reorganize-string) |
 | [0804-unique-morse-code-words](https://github.com/MadhavJee/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/MadhavJee/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1002-find-common-characters](https://github.com/MadhavJee/LeetCode/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/MadhavJee/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/MadhavJee/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MadhavJee/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/MadhavJee/LeetCode/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/MadhavJee/LeetCode/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/MadhavJee/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [1002-find-common-characters](https://github.com/MadhavJee/LeetCode/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/MadhavJee/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MadhavJee/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/MadhavJee/LeetCode/tree/master/1143-longest-common-subsequence) |
