@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/MadhavJee/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/MadhavJee/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MadhavJee/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0812-largest-triangle-area](https://github.com/MadhavJee/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0866-prime-palindrome](https://github.com/MadhavJee/LeetCode/tree/master/0866-prime-palindrome) |
 | [0973-k-closest-points-to-origin](https://github.com/MadhavJee/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MadhavJee/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/MadhavJee/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0804-unique-morse-code-words](https://github.com/MadhavJee/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/MadhavJee/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
+| [0812-largest-triangle-area](https://github.com/MadhavJee/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0875-koko-eating-bananas](https://github.com/MadhavJee/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/MadhavJee/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/MadhavJee/LeetCode/tree/master/0912-sort-an-array) |
@@ -1002,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/MadhavJee/LeetCode/tree/master/0223-rectangle-area) |
+| [0812-largest-triangle-area](https://github.com/MadhavJee/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0973-k-closest-points-to-origin](https://github.com/MadhavJee/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Database
 |  |
@@ -1175,4 +1178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/MadhavJee/LeetCode/tree/master/0399-evaluate-division) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/MadhavJee/LeetCode/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
