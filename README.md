@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/MadhavJee/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MadhavJee/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MadhavJee/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3731-find-missing-elements](https://github.com/MadhavJee/LeetCode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2336-smallest-number-in-infinite-set](https://github.com/MadhavJee/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2351-first-letter-to-appear-twice](https://github.com/MadhavJee/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2352-equal-row-and-column-pairs](https://github.com/MadhavJee/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+| [3731-find-missing-elements](https://github.com/MadhavJee/LeetCode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/MadhavJee/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/MadhavJee/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [3536-maximum-product-of-two-digits](https://github.com/MadhavJee/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/MadhavJee/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
